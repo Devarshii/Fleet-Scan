@@ -1,0 +1,7 @@
+Example table
+This is an example of a data table.
+
+Low Vision 5 2 3 98.3% n=2 1716 sec, n=3
+
+ 
+
